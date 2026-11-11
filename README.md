@@ -19,3 +19,4 @@ MỚI — Trang Giới thiệu trong Cài đặt. Nhấn "Giới thiệu" trong 
 Toàn bộ dữ liệu nằm trong một thư mục duy nhất — ~/.webgo_data/. Bookmark, lịch sử, cài đặt, profile, cache, log bảo mật, bài báo offline — tất cả đều có thể copy sang máy khác, backup bằng rsync, hay xoá sạch bằng rm -rf.
 
 Tải WEB GO tại: https://drive.google.com/drive/folders/1gbdu7QhDQjlhOk2xlIsmGZ-PK6UJDZH4?usp=sharing
+Lưu ý: Khi tải xuống nhớ tải toàn bộ thư mục kèm file sha256 đi kèm với phần mềm để đảm bảo bảo mật.
