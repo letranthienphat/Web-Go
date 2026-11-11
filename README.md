@@ -20,3 +20,4 @@ WEB GO không cố gắng sao chép Chrome hay Edge; nó được xây dựng qu
 **Cuối cùng là khả năng mở rộng không giới hạn bằng Python.** Vì WEB GO là một ứng dụng PyQt6 thuần, bất kỳ ai biết Python đều có thể thêm tính năng mới trong vài chục dòng — một nút "dịch trang", một sidebar bookmark, một chế độ đọc sách, một extension chặn theo dõi tùy chỉnh — mà không cần học C++ hay hệ thống extension phức tạp của Chrome. Đây là lợi thế lớn nhất: **WEB GO không phải là một sản phẩm đóng, mà là một nền tảng mở cho chính bạn.**
 
 Tóm lại, WEB GO khác biệt ở chỗ nó **coi người dùng là người phát triển** — mọi tính năng đều minh bạch, có thể audit, có thể sửa, có thể mở rộng, và không có gì bị giấu sau một lớp UI bóng bẩy. Đó là điều mà không trình duyệt thương mại nào dám làm.
+Để trải nghiệm tất cả các tính năng này, hãy tải ngay Web Go tại link
