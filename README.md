@@ -20,3 +20,7 @@ Toàn bộ dữ liệu nằm trong một thư mục duy nhất — ~/.webgo_data
 
 Tải WEB GO tại: https://drive.google.com/drive/folders/1gbdu7QhDQjlhOk2xlIsmGZ-PK6UJDZH4?usp=sharing
 Lưu ý: Khi tải xuống nhớ tải toàn bộ thư mục kèm file sha256 đi kèm với phần mềm để đảm bảo bảo mật.
+
+**Xem thêm phần mềm nổi bật khác**
+**LTTP AI**
+Phần mềm A.I online hỗ trợ các tác vụ từ cơ bản đến nâng cao. Trải nghiệm hoàn toàn miễn phí tại link "https://lttp-ai-online.streamlit.app/"
